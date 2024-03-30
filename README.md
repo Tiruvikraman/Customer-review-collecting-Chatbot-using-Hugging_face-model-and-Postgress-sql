@@ -1,6 +1,8 @@
 Developed a chatbot for an e-commerce platform capable of handling user queries related to products.
 Tested the chatbot with three different language model models: Llama 2, GPT-3.5-turbo-0125, and GPT-4.
 Identified the most suitable model for the specific use case through intensive testing.
+
+
 ![image](https://github.com/Tiruvikraman/Customer-review-collecting-Chatbot-using-Hugging_face-model-and-Postgress-sql/assets/115523481/274adffe-cfba-493c-b1e2-0c7c01e5ce34)
 
 ![image](https://github.com/Tiruvikraman/Customer-review-collecting-Chatbot-using-Hugging_face-model-and-Postgress-sql/assets/115523481/1075021e-e19b-4597-a7fa-e91ffd63b4da)
